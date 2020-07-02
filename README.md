@@ -14,6 +14,6 @@ and fetch ingress-controller
 
 change values.yaml (examples in this repo) and Chart.yaml
 
-add two terraform files: variable.tf abd module.tf
+add two terraform files: variable.tf and module.tf
 
 after all changes have been made run terraform init and terraform apply
